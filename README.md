@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on JavaScript
-- 📫 You can reach me on Gmail, LinkedIn, GitHub, Instagram and Twitter 
+- 📫 You can reach me on Gmail, LinkedIn, GitHub or and Twitter 
 
 <!---
 hsyntes/hsyntes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
