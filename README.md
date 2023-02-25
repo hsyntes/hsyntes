@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
-<h3 align="center">I'm a Front-End Developer (React JS)</h3>
+<h3 align="center">I'm a React JS</h3>
 
 - 🔭 I’m currently working on [React-Weather](https://weatherfor.netlify.app/)
 
