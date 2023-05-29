@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
-<h3 align="center">I'm a React JS Developer</h3>
+<h3 align="center">I'm a Software Engineering & my expertise is Front-End Development (React | Next.js)</h3>
 
 - 🌱 I’m currently learning **ReactJS, NextJS, React Native**
 
