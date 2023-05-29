@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
 <h3 align="center">I'm a React JS Developer</h3>
 
-- 🔭 I’m currently working on [React-Weather](https://weatherfor.netlify.app/)
-
 - 🌱 I’m currently learning **ReactJS, NextJS, React Native**
 
 - 💬 Ask me about **ReactJS, JavaScript, NextJS**
