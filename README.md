@@ -1,10 +1,9 @@
 
 
-### Full-Stack (MERN) Developer  
+### Full-Stack MERN Developer  
   
 
-### <div>React Front-End Developer with 2 years of experience building websites and web applications (SPA) using React, Redux architecture and modern JavaScript tools/frameworks. Key achievement, collaborated with Back-End Developers to execute new features and create REST API endpoint's request payloads.</div>  
-  
+### <div>Full Stack MERN Developer with expertise in building robust and scalable web applications. Proficient in using React.js to create interactive user interfaces and skilled in handling server side development using Node.js and Express.js with MVC architecture. A strong understanding of JavaScript and its ecosystem, experienced in implementing user authentication, authorization, security features and in designing RESTful APIs, handling data persistence using MongoDB. Strong problem-solving abilities and a passion for delivering high-quality, scalable and user-friendly web applications. Prioritize clean and maintainable code, follow best practices and stay up-to-date with the latest web development trends.</div>
 
 <br/>  
 
